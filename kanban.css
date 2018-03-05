@@ -59,3 +59,9 @@ body {
   -moz-transform: rotate(3deg);
   -webkit-transform: rotate(3deg);
 }
+
+.footer{
+    position: fixed;
+    left: 10px;
+    bottom: 0;
+}
